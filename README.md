@@ -19,167 +19,108 @@ Sri Krishna Inter School, Bihar
 Class XII
 2019 – 2021
 
-🎓 Education
+Technical Skills
+Programming Languages
 
-Vivekananda Global University, Jaipur
-B.Tech in Computer Science (AI & DS) | CGPA: 8.5
-2022 – 2026
+Python, C, SQL, HTML, CSS
 
-Sri Krishna Inter School, Bihar
-Class XII
-2019 – 2021
+AI/ML & Frameworks
 
-💡 Skills & Technologies
-👨‍💻 Programming Languages
+TensorFlow, PyTorch, Scikit-learn, Flask, FastAPI, React, Streamlit
 
-Python
+Data Analysis & Visualization
 
-C
+NumPy, Pandas, Matplotlib, Seaborn, Power BI
 
-SQL
+Tools & Platforms
 
-HTML
+VS Code, PyCharm, Jupyter Notebook, Google Colab, RedHat Linux
 
-CSS
+Core Coursework
 
-🤖 AI/ML & Frameworks
+Artificial Intelligence, Machine Learning, Natural Language Processing, Data Analytics, DBMS, Operating Systems
 
-TensorFlow
+Professional Experience
+Python & Data Science Intern
 
-PyTorch
+VIQASYS Innovation Pvt. Ltd.
 
-Scikit-learn
+Performed Exploratory Data Analysis (EDA) using Pandas and NumPy.
 
-Flask
+Built Machine Learning models using Scikit-learn.
 
-FastAPI
+Developed visual analytics dashboards using Matplotlib and Seaborn.
 
-React
+Worked with real-world datasets to derive actionable insights.
 
-Streamlit
+AI Automation Intern
 
-📊 Data & Visualization
+Linux World
 
-NumPy
+Integrated Python-based AI tools within Linux environments.
 
-Pandas
+Developed automation scripts for intelligent workflow optimization.
 
-Matplotlib
-
-Seaborn
-
-Power BI
-
-🛠 Tools & Platforms
-
-VS Code
-
-PyCharm
-
-Jupyter Notebook
-
-Google Colab
-
-RedHat Linux
-
-💼 Experience
-🏢 VIQASYS Innovation Pvt. Ltd. — Python & Data Science Intern
-
-Worked with NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
-
-Performed Exploratory Data Analysis (EDA).
-
-Implemented Machine Learning models on real-world datasets.
-
-Built visualization dashboards for data insights.
-
-🐧 Linux World — AI Automation Intern
-
-Integrated Python-based AI tools in Linux environments.
-
-Developed automation scripts for intelligent workflows.
-
-Worked on system-level automation using open-source technologies.
-🏭 Shavak Nanavati Technical Institute (TATA)
+Implemented AI-driven system automation using open-source technologies.
 
 IoT-Based Predictive AI Automation Analytics
+
+Shavak Nanavati Technical Institute (TATA)
 Jun 2024 – Sep 2024 | Jamshedpur, Jharkhand
 
-Used IoT sensors to collect real-time industrial data.
+Collected and processed real-time sensor data using IoT devices.
 
-Built predictive ML models for system behavior analysis.
+Developed predictive models for industrial system behavior analysis.
 
-Applied predictive analytics for maintenance automation.
+Applied predictive analytics to enhance automation and maintenance efficiency.
 
-Improved system reliability using data-driven decision-making.
+Projects
+AI-Powered ATS Resume Checker & Job Matcher
 
-🧠 Projects
-🔎 AI-Powered ATS Resume Checker & Job Matcher
+Technologies: React, FastAPI, NLP
 
-Tech Stack: React, FastAPI, NLP
+Developed a full-stack application for resume evaluation and optimization.
 
-Built a full-stack application to analyze resumes.
+Implemented ATS compatibility scoring system.
 
-Generated ATS compatibility scores.
+Built job matching and recommendation engine.
 
-Identified missing keywords for job optimization.
+Designed secure and scalable backend architecture using FastAPI.
 
-Implemented job matching & recommendation system.
+Automated Book Publication Workflow
 
-Integrated LinkedIn job data with secure FastAPI backend.
+Technologies: Playwright, GPT-4, Gemini, ChromaDB, Streamlit, Gradio
 
-Designed scalable API architecture.
+Designed an end-to-end LLM-powered publishing automation system.
 
-📚 Automated Book Publication Workflow
+Implemented web scraping and AI-driven content rewriting.
 
-Tech Stack: Playwright, GPT-4, Gemini, ChromaDB, Streamlit, Gradio
+Integrated vector database (ChromaDB) for semantic search and retrieval.
 
-Developed an end-to-end LLM-powered automation workflow.
+Added human-in-the-loop editing and audio narration features.
 
-Performed web scraping & content rewriting.
+Built interactive user interfaces for workflow management.
 
-Implemented human-in-the-loop editing.
+Certifications
 
-Integrated vector database (ChromaDB) for semantic retrieval.
+Coursera — AI for Everyone
 
-Added audio narration generation feature.
+Coursera — Introduction to Data Analytics
 
-Created interactive UI using Streamlit & Gradio.
+Coursera — Data Visualization
 
-🏆 Certifications & Achievements
+Coursera — Excel Basics
 
-📜 Coursera — AI for Everyone
+EXIN — Artificial Intelligence
 
-📜 Coursera — Introduction to Data Analytics
+EXIN — Python
 
-📜 Coursera — Data Visualization
+EXIN — Blockchain
 
-📜 Coursera — Excel Basics
-
-📜 EXIN — Artificial Intelligence
-
-📜 EXIN — Python
-
-📜 EXIN — Blockchain
-
-📝 Leadership & Content Contribution
+Leadership & Activities
 
 Content Writer — Computer Society for Technocrafts Club, VGU Jaipur
 
-Created promotional & technical content for 10+ seminars and events.
+Created technical and promotional content for 10+ seminars and events.
 
-Increased event visibility and student participation.
-
-🌟 Career Focus
-
-Artificial Intelligence
-
-Machine Learning
-
-NLP & LLM Applications
-
-Automation Systems
-
-Scalable Backend Development
-
-AI-Powered SaaS Applications
+Contributed to increased student engagement and participation.
