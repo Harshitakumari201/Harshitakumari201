@@ -1,5 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Harshita Kumari
+🎓 B.Tech CSE (AI & DS) | AI/ML Enthusiast | Software Developer
+📍 Nawada, Bihar, India
+📧 22harshitakumari@gmail.com
+🔗 LinkedIn
+💻 GitHub
 
+🚀 Objective
+
+Aspiring Software Engineer and AI/ML enthusiast with strong foundations in Machine Learning, NLP, and Data Analytics. Passionate about building intelligent, scalable systems using modern AI frameworks and deploying real-world automation solutions.
 <!--
 **Harshitakumari201/Harshitakumari201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
