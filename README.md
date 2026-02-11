@@ -18,109 +18,95 @@ B.Tech in Computer Science (AI & DS) | CGPA: 8.5
 Sri Krishna Inter School, Bihar
 Class XII
 2019 – 2021
-
-Technical Skills
-Programming Languages
+🛠 Technical Skills
+💻 Programming Languages
 
 Python, C, SQL, HTML, CSS
 
-AI/ML & Frameworks
+🤖 AI/ML & Frameworks
 
 TensorFlow, PyTorch, Scikit-learn, Flask, FastAPI, React, Streamlit
 
-Data Analysis & Visualization
+📊 Data & Visualization
 
 NumPy, Pandas, Matplotlib, Seaborn, Power BI
 
-Tools & Platforms
+🧰 Tools & Platforms
 
 VS Code, PyCharm, Jupyter Notebook, Google Colab, RedHat Linux
 
-Core Coursework
+📚 Core Coursework
 
-Artificial Intelligence, Machine Learning, Natural Language Processing, Data Analytics, DBMS, Operating Systems
+Artificial Intelligence, Machine Learning, NLP, Data Analytics, DBMS, Operating Systems
 
-Professional Experience
-Python & Data Science Intern
+💼 Professional Experience
+🏢 Python & Data Science Intern
 
 VIQASYS Innovation Pvt. Ltd.
 
-Performed Exploratory Data Analysis (EDA) using Pandas and NumPy.
+Performed Exploratory Data Analysis (EDA).
 
-Built Machine Learning models using Scikit-learn.
+Built ML models using Scikit-learn.
 
-Developed visual analytics dashboards using Matplotlib and Seaborn.
+Created visual dashboards using Matplotlib and Seaborn.
 
-Worked with real-world datasets to derive actionable insights.
-
-AI Automation Intern
+🐧 AI Automation Intern
 
 Linux World
 
-Integrated Python-based AI tools within Linux environments.
+Integrated AI tools within Linux environments.
 
-Developed automation scripts for intelligent workflow optimization.
+Developed intelligent automation scripts.
 
-Implemented AI-driven system automation using open-source technologies.
-
-IoT-Based Predictive AI Automation Analytics
+🏭 IoT-Based Predictive AI Automation Analytics
 
 Shavak Nanavati Technical Institute (TATA)
 Jun 2024 – Sep 2024 | Jamshedpur, Jharkhand
 
-Collected and processed real-time sensor data using IoT devices.
+Built predictive models using IoT sensor data.
 
-Developed predictive models for industrial system behavior analysis.
+Applied analytics for industrial automation and maintenance.
 
-Applied predictive analytics to enhance automation and maintenance efficiency.
+🚀 Projects
+🔍 AI-Powered ATS Resume Checker & Job Matcher
 
-Projects
-AI-Powered ATS Resume Checker & Job Matcher
+Tech Stack: React, FastAPI, NLP
 
-Technologies: React, FastAPI, NLP
+Developed resume analysis system with ATS scoring.
 
-Developed a full-stack application for resume evaluation and optimization.
+Implemented job matching and recommendation engine.
 
-Implemented ATS compatibility scoring system.
+Designed scalable FastAPI backend.
 
-Built job matching and recommendation engine.
+📚 Automated Book Publication Workflow
 
-Designed secure and scalable backend architecture using FastAPI.
+Tech Stack: Playwright, GPT-4, Gemini, ChromaDB, Streamlit, Gradio
 
-Automated Book Publication Workflow
+Built end-to-end LLM-powered automation system.
 
-Technologies: Playwright, GPT-4, Gemini, ChromaDB, Streamlit, Gradio
+Integrated vector database for semantic search.
 
-Designed an end-to-end LLM-powered publishing automation system.
+Implemented human-in-the-loop editing and narration features.
 
-Implemented web scraping and AI-driven content rewriting.
+🏆 Certifications
 
-Integrated vector database (ChromaDB) for semantic search and retrieval.
+📜 Coursera — AI for Everyone
 
-Added human-in-the-loop editing and audio narration features.
+📜 Coursera — Introduction to Data Analytics
 
-Built interactive user interfaces for workflow management.
+📜 Coursera — Data Visualization
 
-Certifications
+📜 Coursera — Excel Basics
 
-Coursera — AI for Everyone
+📜 EXIN — Artificial Intelligence
 
-Coursera — Introduction to Data Analytics
+📜 EXIN — Python
 
-Coursera — Data Visualization
+📜 EXIN — Blockchain
 
-Coursera — Excel Basics
+🌟 Leadership & Activities
+✍️ Content Writer — Computer Society for Technocrafts Club, VGU Jaipur
 
-EXIN — Artificial Intelligence
+Created technical & promotional content for 10+ seminars.
 
-EXIN — Python
-
-EXIN — Blockchain
-
-Leadership & Activities
-
-Content Writer — Computer Society for Technocrafts Club, VGU Jaipur
-
-Created technical and promotional content for 10+ seminars and events.
-
-Contributed to increased student engagement and participation.
+Improved club visibility and participation.
